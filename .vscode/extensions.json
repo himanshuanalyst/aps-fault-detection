@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "mongodb.mongodb-vscode",
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "formulahendry.code-runner",
+    "ms-toolsai.jupyter-renderers"
+  ]
+}
